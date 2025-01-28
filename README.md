@@ -25,15 +25,14 @@ I'm a **Software Developer** and a **Computer Science Student** with a strong pa
 
 | **Category**                | **Technologies**                                      |
 |-----------------------------|-------------------------------------------------------|
-| 🖥️ **Frontend Development** | HTML5, CSS3, JavaScript, React, Next.js, Tailwind CSS |
+| 🖥️ **Frontend Development** | HTML5, CSS3, JavaScript/TypeScript, React, Next.js, Tailwind CSS |
 | ⚙️ **Backend Development**  | Node.js, Express.js, RESTful APIs, Prisma, Mongoose  |
 | 🗄️ **Databases**            | PostgreSQL, MongoDB                                  |
 | 🔗 **Version Control**      | Git, GitHub                                          |
-| </> **Programming Languages**| Java, JavaScript, TypeScript, Python                 |
-| 🛠️ **Tools & Platforms**   | Visual Studio Code, IntelliJ IDEA, Postman, Docker    |
+| </> **Languages**           | Java, JavaScript, TypeScript, Python, SQL            |
+| 🛠️ **Tools & Platforms**   | Visual Studio Code, IntelliJ IDEA, Docker, Postman    |
 | 🎨 **UI Libraries**         | Bootstrap, Material UI, Flowbite, ShadCN, Daisy UI   |
 
----
 
 
 
