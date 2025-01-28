@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Software Engineer | 🎓 Computer Science Student
 
-<hr style="border: none; border-top: 3px solid #4CAF50; width: 100%; margin: 20px auto;">
+<hr>
 
 
 ### **About Me** 
@@ -25,12 +25,12 @@ I'm a **Software Developer** and a **Computer Science Student** with a strong pa
 
 | **Category**                | **Technologies**                                      |
 |-----------------------------|-------------------------------------------------------|
-| 🖥️ **Frontend Development** | HTML5, CSS3, JavaScript/TypeScript, React, Next.js, Tailwind CSS |
+| 🖥️ **Frontend Development** | HTML, CSS, JavaScript/TypeScript, React, Next.js, Tailwind CSS |
 | ⚙️ **Backend Development**  | Node.js, Express.js, RESTful APIs, Prisma, Mongoose  |
 | 🗄️ **Databases**            | PostgreSQL, MongoDB                                  |
 | 🔗 **Version Control**      | Git, GitHub                                          |
 | </> **Languages**           | Java, JavaScript, TypeScript, Python, SQL            |
-| 🛠️ **Tools & Platforms**   | Visual Studio Code, IntelliJ IDEA, Docker, Postman    |
+| 🛠️ **Tools**                | Docker                                               |
 | 🎨 **UI Libraries**         | Bootstrap, Material UI, Flowbite, ShadCN, Daisy UI   |
 
 
