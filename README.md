@@ -10,7 +10,8 @@ I'm a **Software Developer** and a **Computer Science Student** with a strong pa
 
 🔧 **What I do:**  
 - Develop both **frontend** and **backend** solutions.  
-- Focus on writing clean, maintainable code while following best practices in **software engineering**.  
+- Focus on writing clean, maintainable code while following best practices in **software engineering**.
+- **Interested in security** and exploring best practices in **secure coding, authentication, and encryption**.    
 - Always exploring new **tools** and **technologies** to stay up-to-date in this ever-evolving field.  
 
 🚀 I'm always looking for new challenges and opportunities to apply my skills in real-world projects. Let's connect!  
