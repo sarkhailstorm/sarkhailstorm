@@ -16,6 +16,6 @@
 ```bash
 > whoami 
 
-I'm a passionate Software Developer
+I am a passionate Software Developer
 ```
 
