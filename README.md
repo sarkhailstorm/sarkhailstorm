@@ -13,8 +13,10 @@
     </div>
 </div>
 
-
-
-
-
+```bash
+> whoami 
+```
+```text
+I'm a passionate Software Developer
+```
 

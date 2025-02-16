@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Terminal Typing Animation</title>
+    <style>
+        body {
+            background: black;
+            color: #0f0;
+            font-family: "Courier New", monospace;
+            padding: 20px;
+        }
+        .terminal {
+            white-space: pre;
+            font-size: 16px;
+            line-height: 1.5;
+        }
+        .cursor {
+            display: inline-block;
+            width: 8px;
+            height: 16px;
+            background: #0f0;
+            animation: blink 0.6s infinite alternate;
+        }
+        @keyframes blink {
+            from { opacity: 1; }
+            to { opacity: 0; }
+        }
+    </style>
+</head>
+<body>
+    <div class="terminal" id="terminal"></div>
+    <script>
+        const text = `
+> whoami
+I'm Sparkles ✨, a passionate Software Engineer & Computer Science student.
+I love building cool and functional software, and I'm obsessed with security.
+I work on full-stack projects and explore ethical hacking & cybersecurity.
+
+> skills --show
+- Develop both frontend & backend solutions.
+- Write clean, maintainable, and secure code.
+- Explore secure coding, authentication & encryption.
+- Passionate about Linux, Bash scripting, and Ethical Hacking.
+
+> echo "Let's connect & build something awesome!"
+
+> cat technologies.txt
+Frontend: HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS.
+Backend: Node.js, Express.js, RESTful APIs, Prisma, Mongoose.
+Databases: PostgreSQL, SQLite, MongoDB.
+Version Control: Git, GitHub.
+Operating Systems: Linux (Debian, Arch, Kali).
+Scripting & Tools: Bash, Vim, Docker.
+Languages: Java, JavaScript, TypeScript, Python, SQL.
+3D Development: Three.js, React-Three-Fiber.
+UI Libraries: Material UI, Bootstrap, Flowbite, ShadCN, Daisy UI.
+
+> cat hacking.txt
+- Linux & Bash Scripting
+- Cybersecurity Fundamentals
+- Network Security & Encryption
+- Web Security & Ethical Hacking
+- Penetration Testing (Exploring)
+
+> ping -c 3 sparkles
+[✔] Online and Ready to Collaborate!
+
+> exit
+Thanks for stopping by!
+Keep coding, stay curious, and hack the planet! 🚀
+`;
+
+        let i = 0;
+        function typeEffect() {
+            if (i < text.length) {
+                document.getElementById("terminal").innerHTML = text.slice(0, i) + '<span class="cursor"></span>';
+                i++;
+                setTimeout(typeEffect, 50); // Adjust speed here
+            } else {
+                document.getElementById("terminal").innerHTML = text + '<span class="cursor"></span>';
+            }
+        }
+        typeEffect();
+    </script>
+</body>
+</html>
