@@ -1,34 +1,54 @@
-# Hi there, I'm Sarkhail... ✨
+<!-- README.md -->
 
-### 👨‍💻 Software Engineer | 🎓 Computer Science Student
+<div align="center" style="background-color: black; padding: 14px; border-radius: 8px;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=500&lines=%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+Hi+There,+I'm+Sparkles;%F0%9F%8E%93+I'm+a+Software+Engineer;%F0%9F%94%8E+Ethical+Hacking+Aficionado;%F0%9F%92%A1+Passionate+Problem+Solver" alt="Typing Animation">
+</div>
 
----
+<h2 align="center"><img src="https://img.shields.io/badge/-Welcome%20to%20my%20hacker%20zone-00ff00?style=for-the-badge&logo=linux&logoColor=black"></h2>
 
-### **About Me**  
-
-I'm a **Software Developer** and a **Computer Science Student** with a strong passion for building cool and functional software. I love diving into both **frontend** and **backend** development, and I'm always excited to learn new things along the way.  
-
-🔧 **What I do:**  
-- Develop both **frontend** and **backend** solutions.  
-- Focus on writing clean, maintainable code while following best practices in **software engineering**.
-- **Interested in security** and exploring best practices in **secure coding, authentication, and encryption**.    
-- Always exploring new **tools** and **technologies** to stay up-to-date in this ever-evolving field.  
-
-🚀 I'm always looking for new challenges and opportunities to apply my skills in real-world projects. Let's connect!  
+<div align="center">
+  <img src="https://github.com/sindresorhus/terminal-image/raw/main/media/demo.gif" width="600">
+</div>
 
 ---
 
-### **Technologies and Tools**  
+## 🦇 **About Me**
+```bash
+> whoami
+I'm Sparkles ✨, a passionate Software Engineer & Computer Science student.
+I love building cool and functional software, and I'm obsessed with security.
+I work on full-stack projects and explore ethical hacking & cybersecurity.
 
-| **Category**                | **Technologies**                                      |
-|-----------------------------|-------------------------------------------------------|
-| 🖥️ **Frontend Development** | HTML, CSS, JavaScript/TypeScript, React, Next.js, Tailwind CSS |
-| ⚙️ **Backend Development**  | Node.js, Express.js, RESTful APIs, Prisma, Mongoose  |
-| 🗄️ **Databases**            | PostgreSQL, SQLite, MongoDB                          |
-| 🔗 **Version Control**      | Git, GitHub                                          |
-| </> **Languages**           | Java, JavaScript, TypeScript, Python, SQL             |
-| 🎮 **3D Development**       | Three.js, React-Three-Fiber                          |
-| 🛠️ **Tools**                | Docker                                               |
-| 🎨 **UI Libraries**         | Material UI, Bootstrap, Flowbite, ShadCN, Daisy UI   |
+> skills --show
+- Develop both frontend & backend solutions.
+- Write clean, maintainable, and secure code.
+- Explore secure coding, authentication & encryption.
+- Passionate about Linux, Bash scripting, and Ethical Hacking.
 
----
+> echo "Let's connect & build something awesome!"
+
+> cat technologies.txt
+Frontend: HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS.
+Backend: Node.js, Express.js, RESTful APIs, Prisma, Mongoose.
+Databases: PostgreSQL, SQLite, MongoDB.
+Version Control: Git, GitHub.
+Operating Systems: Linux (Debian, Arch, Kali).
+Scripting & Tools: Bash, Vim, Docker.
+Languages: Java, JavaScript, TypeScript, Python, SQL.
+3D Development: Three.js, React-Three-Fiber.
+UI Libraries: Material UI, Bootstrap, Flowbite, ShadCN, Daisy UI.
+
+> cat hacking.txt
+- Linux & Bash Scripting
+- Cybersecurity Fundamentals
+- Network Security & Encryption
+- Web Security & Ethical Hacking
+- Penetration Testing (Exploring)
+
+> ping -c 3 sparkles
+[✔] Online and Ready to Collaborate!
+
+> exit
+Thanks for stopping by!
+Keep coding, stay curious, and hack the planet! 🚀
+
