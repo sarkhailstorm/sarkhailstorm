@@ -9,13 +9,58 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" height="100">
     </div>
     <div>
-        <img src="https://img.shields.io/badge/Welcome%20to%20my%20Hacker%20Zone-000000?style=for-the-badge&logo=linux&logoColor=00FF00&labelColor=000000&color=000000" height="40">
+        <img src="https://img.shields.io/badge/Welcome%20to%20my%20Digital%20Playground-000000?style=for-the-badge&logo=linux&logoColor=00FF00&labelColor=000000&color=000000" height="40">
     </div>
 </div>
 
-```bash
+###
+
+<pre>
 > whoami 
+    
+- Committed Software Developer with a strong passion for building cool and functional software.
+- Obsessed with security, always hunting for vulnerabilities.
+- Always excited to learn new things along the way.
+</pre>
 
-I am a passionate Software Developer
-```
+<pre>
+> cat skills.txt
+    
+- Develop both Frontend & Backend solutions.
+- Write clean, maintainable, and secure code.
+- Explore secure coding, authentication & encryption.
+- Passionate about Linux, Bash scripting, and Ethical Hacking.
+</pre>
 
+<pre>
+> cat technologies.txt
+    
+- Frontend: HTML, CSS, JS/TS, React, Next.js, Tailwind CSS.
+- Backend: Node.js, Express.js, REST APIs.
+- ORM: Prisma, Mongoose.
+- Databases: PostgreSQL, MySQL, MongoDB.   
+- Scripting & Tools: Bash, Docker.
+- Languages: Java, JavaScript, TypeScript, Python, SQL.
+- 3D Development: Three.js, React-Three-Fiber.
+- UI Libraries: MUI, ShadCN, Flowbite, Bootstrap, Daisy UI.
+</pre>
+
+<pre>
+> ping -c 3 sarkhail.dev
+    
+✔ Online and Ready to Collaborate.
+</pre>
+
+<pre>
+> sudo access --granted
+
+🔍 "If you're reading this, you're either interested or in the wrong place..."  
+⚠️ Proceed with caution—code is addictive!  
+
+</pre>
+
+<pre>
+> echo "Thanks for stopping by. Let's connect!"
+    
+> sudo shutdown -h now 
+</pre>
