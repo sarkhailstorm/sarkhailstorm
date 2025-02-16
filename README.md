@@ -1,16 +1,23 @@
 <!-- README.md -->
 
-<div align="center" style="background-color: black; padding: 14px; border-radius: 8px;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=500&lines=%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+Hi+There,+I'm+Sparkles;%F0%9F%8E%93+I'm+a+Software+Engineer;%F0%9F%94%8E+Ethical+Hacking+Aficionado;%F0%9F%92%A1+Passionate+Problem+Solver" alt="Typing Animation">
-</div>
-
-<h2 align="center"><img src="https://img.shields.io/badge/-Welcome%20to%20my%20hacker%20zone-00ff00?style=for-the-badge&logo=linux&logoColor=black"></h2>
-
 <div align="center">
-  <img src="https://github.com/sindresorhus/terminal-image/raw/main/media/demo.gif" width="600">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=500&lines=%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+Hiya,+I'm+Sparkles;%F0%9F%8E%93+I'm+a+Software+Engineer;%F0%9F%94%8E+Ethical+Hacking+Aficionado;%F0%9F%92%A1+Passionate+Problem+Solver" alt="Typing Animation" width="1000">
 </div>
 
----
+<h2 align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" height="100">
+</h2>
+
+<h2 align="center">
+  <img src="https://img.shields.io/badge/Welcome%20to%20my%20Hacker%20Zone-000000?style=for-the-badge&logo=kali-linux&logoColor=00FF00&labelColor=000000&color=000000" height="100">
+</h2>
+
+
+
+
+
+
+
 
 ## 🦇 **About Me**
 ```bash
