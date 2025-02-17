@@ -29,7 +29,7 @@
 - Develop both Frontend & Backend solutions.
 - Write clean, maintainable, and secure code.
 - Explore secure coding, authentication & encryption.
-- Passionate about Linux, Bash scripting, and Ethical Hacking.
+- Passionate about Linux, Bash Scripting, and Pen Testing.
 </pre>
 
 <pre>
