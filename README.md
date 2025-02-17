@@ -9,7 +9,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" height="100">
     </div>
     <div>
-        <img src="https://img.shields.io/badge/Welcome%20to%20my%20Digital%20Playground-000000?style=for-the-badge&logo=linux&logoColor=00FF00&labelColor=000000&color=000000" height="60">
+        <img src="https://img.shields.io/badge/Welcome%20to%20my%20Digital%20Playground-000000?style=for-the-badge&logo=linux&logoColor=00FF00&labelColor=000000&color=000000" height="50">
     </div>
 </div>
 
