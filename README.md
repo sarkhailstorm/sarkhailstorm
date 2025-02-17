@@ -46,17 +46,17 @@
 </pre>
 
 <pre>
-> ping -c 1 sarkhail.dev
-    
-✔ Online and Ready to Collaborate.
-</pre>
-
-<pre>
 > sudo access --granted
 
 🔍 "If you're reading this, you're either interested or in the wrong place..."  
 ⚠️ Proceed with caution—code is addictive!  
 
+</pre>
+
+<pre>
+> ping -c 1 sarkhail.dev
+    
+✔ Online and Ready to Collaborate.
 </pre>
 
 <pre>
