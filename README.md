@@ -46,7 +46,7 @@
 </pre>
 
 <pre>
-> ping -c 3 sarkhail.dev
+> ping -c 1 sarkhail.dev
     
 ✔ Online and Ready to Collaborate.
 </pre>
