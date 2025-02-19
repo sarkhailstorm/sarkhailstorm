@@ -39,7 +39,7 @@
 - Backend: Node.js, Express.js, REST APIs.
 - ORM: Prisma, Mongoose.
 - Databases: PostgreSQL, MySQL, MongoDB.   
-- Scripting & Tools: Bash, Docker.
+- Scripting & Tools: Python, Bash, Docker.
 - Languages: Java, JavaScript, TypeScript, Python, SQL.
 - 3D Development: Three.js, React-Three-Fiber.
 - UI Libraries: MUI, ShadCN, Flowbite, Bootstrap, Daisy UI.
@@ -49,8 +49,6 @@
 > sudo access --granted
 
 🔍 "If you're reading this, you're either interested or in the wrong place..."  
-⚠️ Proceed with caution—code is addictive!  
-
 </pre>
 
 <pre>
