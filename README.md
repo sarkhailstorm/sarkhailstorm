@@ -48,7 +48,7 @@
 <pre>
 > sudo access --granted
 
-🔍 "If you're reading this, you're either interested or in the wrong place..."  
+🔍 echo "If you're reading this, you're either interested or in the wrong place..."  
 </pre>
 
 <pre>
