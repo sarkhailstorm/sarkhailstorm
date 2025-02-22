@@ -39,7 +39,7 @@
 - Backend: Node.js, Express.js, REST APIs.
 - ORM: Prisma, Mongoose.
 - Databases: PostgreSQL, MySQL, MongoDB.   
-- Scripting & Tools: Python, Bash, Docker.
+- Scripting & Tools: Python, Bash, Git, Docker.
 - Languages: Java, JavaScript, TypeScript, Python, SQL.
 - 3D Development: Three.js, React-Three-Fiber.
 - UI Libraries: MUI, ShadCN, Flowbite, Bootstrap, Daisy UI.
