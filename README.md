@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=2000&pause=1000&color=32CD32&center=true&vCenter=true&width=600&lines=Hiya,+I'm+Sarkhail!;Software+Engineer;Passionate+Problem+Solver;Security+Aficionado" alt="Typing Animation">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=2000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hiya,+I'm+Sarkhail!;Software+Engineer;Passionate+Problem+Solver;Security+Aficionado" alt="Typing Animation">
 </div>
 
 <div align="center">
@@ -18,7 +18,7 @@
 <br>
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=6000&pause=1000&color=FFD700&center=true&vCenter=true&width=1000&lines=Committed+Software+Developer+with+a+strong+passion...;for+building+cool+and+functional+software.;Always+exploring+security+and+secure+coding+practices.;Love+learning+new+technologies+and+solving+complex+problems." alt="Typing Animation">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=6000&pause=1000&color=FFD700&center=true&vCenter=true&width=1000&lines=Committed+Software+Developer+with+a+strong+passion...;for+building+cool+and+functional+software.;Always+exploring+security+and+secure+coding+practices.;Love+learning+new+technologies+and+solving+complex+problems." alt="Typing Animation">
 </div>
 
 <div align="center">
@@ -37,8 +37,8 @@
     <tr>
         <th align="start"><img src="https://img.shields.io/badge/Frontend-6F42C1?style=for-the-badge&labelColor=6610F2&color=4169E1"></th>
         <td>
-            <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-            <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+            <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white">
+            <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white">
             <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
             <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white">
             <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black">
@@ -83,6 +83,6 @@
 </div>
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=If+you're+reading+this,+you're+either+interested...;or+in+the+wrong+place...;but+either+way,+welcome!;Let's+Connect!">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=1000&color=32CD32&center=true&vCenter=true&width=800&lines=If+you're+reading+this,+you're+either+interested...;or+in+the+wrong+place...;but+either+way,+welcome!;Let's+Connect!">
 </div>
 
