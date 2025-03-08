@@ -13,12 +13,12 @@
 <br>
 
 <div align="center">
-    <img src="https://img.shields.io/badge/Whoami-6F42C1?style=for-the-badge&labelColor=6610F2&color=6F42C1">
+    <img src="https://img.shields.io/badge/About me-6F42C1?style=for-the-badge&labelColor=6610F2&color=6F42C1">
 </div>
 <br>
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=18&duration=6000&pause=1000&color=FFD700&center=true&vCenter=true&width=1000&lines=Commited+Software+Developer+with+a+strong+passion+for+building+cool+and+functional+software.;Always+exploring+security+and+secure+coding+practices.;Love+learning+new+technologies+and+solving+complex+problems." alt="Typing Animation">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=6000&pause=1000&color=FFD700&center=true&vCenter=true&width=1000&lines=Commited+Software+Developer+with+a+strong+passion...;for+building+cool+and+functional+software.;Always+exploring+security+and+secure+coding+practices.;Love+learning+new+technologies+and+solving+complex+problems." alt="Typing Animation">
 </div>
 
 <div align="center">
@@ -83,6 +83,6 @@
 </div>
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=18&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=If+you're+reading+this,+you're+either+interested...;or+in+the+wrong+place...;but+either+way,+welcome!;Let's+Connect!">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=If+you're+reading+this,+you're+either+interested...;or+in+the+wrong+place...;but+either+way,+welcome!;Let's+Connect!">
 </div>
 
