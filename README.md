@@ -46,19 +46,6 @@
 </pre>
 
 <pre>
-> sudo access --granted
-
 🔍 echo "If you're reading this, you're either interested or in the wrong place..."  
 </pre>
 
-<pre>
-> ping -c 1 sarkhail.dev
-    
-✔ Online and Ready to Collaborate.
-</pre>
-
-<pre>
-> echo "Thanks for stopping by. Let's connect!"
-    
-> sudo shutdown -h now 
-</pre>
