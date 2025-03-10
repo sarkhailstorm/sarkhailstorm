@@ -88,6 +88,14 @@
 </div>
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=1000&color=32CD32&center=true&vCenter=true&width=800&lines=If+you're+reading+this,+you're+either+interested...;or+in+the+wrong+place...;but+either+way,+welcome!;Let's+Connect!">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=19&duration=3000&pause=1000&color=FF6961&center=true&vCenter=true&width=1000&lines=If+you're+reading+this,+you're+either+interested+or+in+the+wrong+place&repeat=false">
+</div>
+<br>
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=19&duration=3000&pause=1000&color=32CD32&center=true&vCenter=true&width=1000&lines=but+either+way,+welcome!&repeat=false">
+</div>
+<br>
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=19&duration=1000&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Let's+Connect!">
 </div>
 
