@@ -18,11 +18,13 @@
 <br>
 
 
-- <p><strong>Committed Software Developer</strong> with a passion for building cool and functional software.</p>
-- <p>From frontend magic to backend logic, I bring ideas to life with clean, efficient code.</p>
-- <p>Whether it's a website, an app, or a full-stack project, I build things that just work.</p>
-- <p>Got a tricky bug or a complex challenge? I love cracking tough problems and finding creative solutions.</p>
-- <p>Passionate about Linux, scripting, and automation—because efficiency matters.</p>
+<div align="center">
+    <p><strong>Committed Software Developer</strong> with a passion for building cool and functional software.</p>
+    <p>From <strong>frontend</strong> magic to <strong>backend</strong> logic, I bring ideas to life with clean, efficient code.</p>
+    <p>Whether it's a website, an app, or a full-stack project, I build things that just work.</p>
+    <p>Got a tricky bug? I love cracking tough problems and finding <strong>creative</strong> solutions.</p>
+    <p>Passionate about Linux, scripting, and automation—<strong>because efficiency matters.</strong></p>
+</div>
 
 <div align="center">
     <img src="https://dummyimage.com/1200x4/4169E1/4169E1" alt="Purple Horizontal Line">
@@ -34,7 +36,6 @@
     <img src="https://img.shields.io/badge/Tech%20Stack-6F42C1?style=for-the-badge&labelColor=6610F2&color=6F42C1">
 </div>
 
-<br>
 
 <div align="center">
 
@@ -86,15 +87,13 @@
     <img src="https://dummyimage.com/1200x4/4169E1/4169E1" alt="Purple Horizontal Line">
 </div>
 
-<div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=19&duration=3000&pause=1000&color=FF6961&center=true&vCenter=true&width=1000&lines=If+you're+reading+this,+you're+either+interested+or+in+the+wrong+place&repeat=false">
-</div>
 <br>
+
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=19&duration=3000&pause=1000&color=32CD32&center=true&vCenter=true&width=1000&lines=but+either+way,+welcome!&repeat=false">
+    <p>If you're reading this, you're either interested or in the wrong place...</p>
+    <p>but either way, welcome!</p>
 </div>
-<br>
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=19&duration=1000&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Let's+Connect!">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=1000&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Let's+Connect!">
 </div>
 
