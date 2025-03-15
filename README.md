@@ -18,7 +18,7 @@
 <br>
 
 
-<div align="center">
+<div>
     <p><strong>Committed Software Developer</strong> with a passion for building cool and functional software.</p>
     <p>From <strong>frontend</strong> magic to <strong>backend</strong> logic, I bring ideas to life with clean, efficient code.</p>
     <p>Whether it's a website, an app, or a full-stack project, I build things that just work.</p>
