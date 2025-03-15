@@ -17,14 +17,12 @@
 </div>
 <br>
 
-<div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=19&duration=6000&color=FFD700&center=false&vCenter=true&width=1000&lines=-+Committed+Software+Developer+passionate+about+building+cool+and+functional+software.&repeat=false" alt="Typing Animation">
-    <br>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=19&duration=6000&color=FFD700&center=false&vCenter=true&width=1000&lines=-+Always+exploring+security+and+secure+coding+practices.&repeat=false" alt="Typing Animation">
-    <br>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=19&duration=6000&color=FFD700&center=false&vCenter=true&width=1000&lines=-+Love+learning+new+technologies+and+solving+complex+problems.&repeat=false" alt="Typing Animation">
-</div>
 
+- <p><strong>Committed Software Developer</strong> with a passion for building cool and functional software.</p>
+- <p>From frontend magic to backend logic, I bring ideas to life with clean, efficient code.</p>
+- <p>Whether it's a website, an app, or a full-stack project, I build things that just work.</p>
+- <p>Got a tricky bug or a complex challenge? I love cracking tough problems and finding creative solutions.</p>
+- <p>Passionate about Linux, scripting, and automation—because efficiency matters.</p>
 
 <div align="center">
     <img src="https://dummyimage.com/1200x4/4169E1/4169E1" alt="Purple Horizontal Line">
