@@ -18,8 +18,8 @@
 <br>
 
 
-- <p><strong>Committed Software Developer</strong> with a strong passion for building cool and functional software. From <strong>frontend</strong> magic to <strong>backend</strong> logic, I bring ideas to life with clean, efficient code. Whether it's a website, an app, or a full-stack project, I build things that just work.</p>
-- <p>Got a tricky bug or a complex challenge? I love cracking through problems and finding <strong>creative</strong> solutions. I'm also passionate about Linux, scripting, and automation—<strong>because efficiency matters.</strong></p>
+- <p>Committed Software Developer with a strong passion for building <strong>cool</strong> and <strong>functional</strong> software. From <strong>frontend</strong> magic to <strong>backend</strong> logic, I bring ideas to life with <strong>clean</strong>, <strong>efficient</strong> code. Whether it's a <strong>website</strong>, an <strong>app</strong>, or a <strong>full-stack project</strong>, I build things that just work.</p>
+- <p>Got a tricky <strong>bug</strong> or a complex <strong>challenge</strong>? Problem-solving is my <strong>jam</strong>—I love breaking things down and figuring out <strong>creative</strong> ways to make things work. I'm also passionate about Linux, scripting, and automation—<strong>because efficiency matters.</strong></p>
 
 <div align="center">
     <img src="https://dummyimage.com/1200x4/4169E1/4169E1" alt="Purple Horizontal Line">
