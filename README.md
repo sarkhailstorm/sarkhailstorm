@@ -92,6 +92,5 @@
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=1000&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Let's+Connect!">
 </div>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarkhailstorm&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs">
+
 </p>
