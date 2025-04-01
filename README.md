@@ -34,28 +34,23 @@
 
 <div align="center">
 
-### <img src="https://img.shields.io/badge/Frontend-141414?style=for-the-badge&labelColor=141414&color=2c3e50&logoColor=white">
-
-<img src="https://img.shields.io/badge/-HTML-141414?style=flat-square&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/-CSS-141414?style=flat-square&logo=css3&logoColor=white">
+### <img src="https://img.shields.io/badge/Languages-141414?style=for-the-badge&labelColor=141414&color=2c3e50&logoColor=white">
+<img src="https://img.shields.io/badge/-Java-141414?style=flat-square&logo=coffeescript&logoColor=white">
+<img src="https://img.shields.io/badge/-Python-141414?style=flat-square&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/-JavaScript-141414?style=flat-square&logo=javascript&logoColor=white">
 <img src="https://img.shields.io/badge/-TypeScript-141414?style=flat-square&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/-React-141414?style=flat-square&logo=react&logoColor=white">
-<img src="https://img.shields.io/badge/-Next.js-141414?style=flat-square&logo=nextdotjs&logoColor=white">
-<img src="https://img.shields.io/badge/-TailwindCSS-141414?style=flat-square&logo=tailwind-css&logoColor=white">
+<img src="https://img.shields.io/badge/-SQL-141414?style=flat-square&logo=buffer&logoColor=white">
+
 
 <div align="center">
     <img src="https://dummyimage.com/530x4/FFFFFF/FFFFFF" alt="Purple Horizontal Line">
 </div>
 
-### <img src="https://img.shields.io/badge/Backend-141414?style=for-the-badge&labelColor=141414&color=2c3e50&logoColor=white">
+### <img src="https://img.shields.io/badge/Libraries & Frameworks-141414?style=for-the-badge&labelColor=141414&color=2c3e50&logoColor=white">
 
-<img src="https://img.shields.io/badge/-Node.js-141414?style=flat-square&logo=node.js&logoColor=white">
 <img src="https://img.shields.io/badge/-Express.js-141414?style=flat-square&logo=express&logoColor=white">
-<img src="https://img.shields.io/badge/-REST%20APIs-141414?style=flat-square&logo=postman&logoColor=white">
-<img src="https://img.shields.io/badge/-PostgreSQL-141414?style=flat-square&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/-MongoDB-141414?style=flat-square&logo=mongodb&logoColor=white">
-
+<img src="https://img.shields.io/badge/-React-141414?style=flat-square&logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/-Next.js-141414?style=flat-square&logo=nextdotjs&logoColor=white">
 <div align="center">
     <img src="https://dummyimage.com/530x4/FFFFFF/FFFFFF" alt="Purple Horizontal Line">
 </div>
@@ -65,15 +60,6 @@
 <img src="https://img.shields.io/badge/-Git-141414?style=flat-square&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/-Docker-141414?style=flat-square&logo=docker&logoColor=white">
 
-<div align="center">
-    <img src="https://dummyimage.com/530x4/FFFFFF/FFFFFF" alt="Purple Horizontal Line">
-</div>
-
-### <img src="https://img.shields.io/badge/Other%20Languages-141414?style=for-the-badge&labelColor=141414&color=2c3e50&logoColor=white">
-
-<img src="https://img.shields.io/badge/-Java-141414?style=flat-square&logo=coffeescript&logoColor=white">
-<img src="https://img.shields.io/badge/-Python-141414?style=flat-square&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/-SQL-141414?style=flat-square&logo=buffer&logoColor=white">
 </div>
 
 <br>
