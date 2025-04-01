@@ -37,7 +37,6 @@
 ### <img src="https://img.shields.io/badge/Languages-141414?style=for-the-badge&labelColor=141414&color=2c3e50&logoColor=white">
 <img src="https://img.shields.io/badge/-Java-141414?style=flat-square&logo=coffeescript&logoColor=white">
 <img src="https://img.shields.io/badge/-Python-141414?style=flat-square&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/-JavaScript-141414?style=flat-square&logo=javascript&logoColor=white">
 <img src="https://img.shields.io/badge/-TypeScript-141414?style=flat-square&logo=typescript&logoColor=white">
 
 <div align="center">
