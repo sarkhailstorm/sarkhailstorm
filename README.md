@@ -39,8 +39,6 @@
 <img src="https://img.shields.io/badge/-Python-141414?style=flat-square&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/-JavaScript-141414?style=flat-square&logo=javascript&logoColor=white">
 <img src="https://img.shields.io/badge/-TypeScript-141414?style=flat-square&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/-SQL-141414?style=flat-square&logo=buffer&logoColor=white">
-
 
 <div align="center">
     <img src="https://dummyimage.com/530x4/FFFFFF/FFFFFF" alt="Purple Horizontal Line">
