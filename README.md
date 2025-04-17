@@ -67,9 +67,4 @@
 
 <br>
 
-<div align="center">
-    <p>If you're reading this, you're either interested or in the wrong place...</p>
-    <p>but either way, welcome!</p>
-</div>
-
 </p>
