@@ -9,7 +9,7 @@
 <br>
 
 <div align="center">
-    <img src="https://img.shields.io/badge/Who Am I-141414?style=for-the-badge&labelColor=6610F2&color=141414">
+    <img src="https://img.shields.io/badge/A little something about me-141414?style=for-the-badge&labelColor=6610F2&color=141414">
 </div>
 <br>
 
