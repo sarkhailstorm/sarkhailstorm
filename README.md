@@ -13,8 +13,10 @@
 </div>
 <br>
 
-<p>CS grad who's all about building <strong>cool</strong> and <strong>functional</strong> software. From <strong>Front-End</strong> magic to <strong>Back-End</strong> logic, I turn <strong>‘what ifs’</strong> into <strong>‘heck yeahs’</strong> with solid code. Whether it's a <strong>website</strong>, an <strong>app</strong>, or a <strong>full-stack project</strong>, I <strong>build</strong> things that just <strong>work</strong>.</p>
-<p>Got a tricky <strong>bug</strong> or a complex <strong>challenge</strong>? Problem-solving is my <strong>thing</strong>—I love <strong>breaking</strong> things down and figuring out creative <strong>fixes</strong>. I <strong>build</strong> apps with <strong>security</strong> in mind so there are no <strong>nasty</strong> surprises. Linux, scripting, and automation? Count me in.</p>
+<p>CS grad who loves turning ideas into actual working stuff. From <strong>Front-End</strong> magic to <strong>Back-End</strong> logic, I'm about building things that just work. Websites, apps, full-stack projects - you name it, I’ve probably tried building it (and broke it a few times along the way).</p>
+<p>Got a weird bug or something acting up? I enjoy poking around until it makes sense again. I like keeping things secure too - no unexpected surprises on my watch.
+
+<p>Big fan of Linux, scripting, and automating the boring stuff so I can focus on the fun parts. Let's connect!</p>
 
 <div >
 
