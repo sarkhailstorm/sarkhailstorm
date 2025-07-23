@@ -13,10 +13,11 @@
 </div>
 <br>
 
-<p>CS grad who loves turning ideas into actual working stuff. From <strong>Front-End</strong> magic to <strong>Back-End</strong> logic, I'm about building things that just work. Websites, apps, full-stack projects - you name it, I’ve probably tried building it (and broke it a few times along the way).</p>
-<p>Got a weird bug or something acting up? I enjoy poking around until it makes sense again. I like keeping things secure too - no unexpected surprises on my watch.
+<p>CS grad who loves turning random ideas into stuff that actually works (most of the time). From <strong>Front-End</strong> magic to <strong>Back-End</strong> logic, I mess around with all kinds of projects.</p>
 
-<p>Big fan of Linux, scripting, and automating the boring stuff so I can focus on the fun parts. Let's connect!</p>
+<p>Bugs? Glitches? Weird errors at 2 AM? I actually enjoy digging into those. It’s like a weird hobby.</p>
+
+<p>Big fan of Linux, scripting, and automating the boring stuff so I can focus on the fun parts. If you're into code, caffeine, or just complaining about semicolons, we’ll probably get along. Let’s connect!</p>
 
 <div >
 
