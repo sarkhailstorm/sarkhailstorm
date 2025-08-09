@@ -13,7 +13,7 @@
 </div>
 <br>
 
-<p>CS grad who loves turning random ideas into stuff that actually works (most of the time). From <strong>Front-End</strong> magic to <strong>Back-End</strong> logic, I mess around with all kinds of projects.</p>
+<p>CS grad who loves turning random ideas into stuff that actually works (most of the time). From Front-End magic to Back-End logic, I mess around with all kinds of projects.</p>
 
 <p>Bugs? Glitches? Weird errors at 2 AM? I actually enjoy digging into those. It’s like a weird hobby.</p>
 
