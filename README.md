@@ -13,11 +13,9 @@
 </div>
 <br>
 
-<p>CS grad who loves turning random ideas into stuff that actually works (most of the time). From Front-End magic to Back-End logic, I mess around with all kinds of projects.</p>
+<p>CS grad who enjoys developing things just to see if they work. I like building things from the parts people interact with to the parts they never see. And somewhere along the way, I’ve realised it's pretty satisfying to take messy data and make sense of it.</p>
 
-<p>Bugs? Glitches? Weird errors at 2 AM? I actually enjoy digging into those. It’s like a weird hobby.</p>
-
-<p>Big fan of Linux, scripting, and automating the boring stuff so I can focus on the fun parts. If you're into code, caffeine, or just complaining about semicolons, we’ll probably get along. Let’s connect!</p>
+<p>Big fan of Linux, scripting, and automating the boring stuff so I can focus on the fun parts. If you're into code, or just complaining about semicolons, we’ll probably get along. Let’s connect!</p>
 
 <div >
 
@@ -26,7 +24,7 @@
 <img src="https://img.shields.io/badge/-Java-141414?style=flat-square&logo=coffeescript&logoColor=white">
 <img src="https://img.shields.io/badge/-Python-141414?style=flat-square&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/-TypeScript-141414?style=flat-square&logo=typescript&logoColor=white">
-
+<img src="https://img.shields.io/badge/-SQL-141414?style=flat-square&logo=databricks&logoColor=white">
 </div>
 <div align="center">
     <img src="https://dummyimage.com/1200x4/FFFFFF/FFFFFF" alt="White Horizontal Line">
