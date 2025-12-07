@@ -13,7 +13,7 @@
 </div>
 <br>
 
-<p>CS grad who enjoys developing things just to see if they work. I like building things from the parts people interact with to the parts they never see. And somewhere along the way, I’ve realised it's pretty satisfying to take messy data and make sense of it.</p>
+<p>CS grad who enjoys building things from the parts people interact with to the parts they never see. And somewhere along the way, I’ve realised it's pretty satisfying to take messy data and make sense of it.</p>
 
 <p>Big fan of Linux, scripting, and automating the boring stuff so I can focus on the fun parts. If you're into code, or just complaining about semicolons, we’ll probably get along. Let’s connect!</p>
 
