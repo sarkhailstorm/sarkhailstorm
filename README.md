@@ -20,11 +20,13 @@
 <div >
 
 <br>
+<div align="center">
 <img src="https://img.shields.io/badge/-C Sharp-141414?style=flat-square&logo=sharp&logoColor=white">
 <img src="https://img.shields.io/badge/-Java-141414?style=flat-square&logo=coffeescript&logoColor=white">
 <img src="https://img.shields.io/badge/-Python-141414?style=flat-square&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/-TypeScript-141414?style=flat-square&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/-SQL-141414?style=flat-square&logo=databricks&logoColor=white">
+</div>
 </div>
 <div align="center">
     <img src="https://dummyimage.com/1200x4/FFFFFF/FFFFFF" alt="White Horizontal Line">
